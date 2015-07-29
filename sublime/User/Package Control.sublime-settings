@@ -4,6 +4,7 @@
 	],
 	"installed_packages":
 	[
+		"AlignTab",
 		"All Autocomplete",
 		"Better CoffeeScript",
 		"Color Highlighter",
